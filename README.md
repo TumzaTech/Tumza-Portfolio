@@ -12,6 +12,7 @@ I'll be looking forward to hearing from you what you think of the website. Click
 
 ## 📬 Contact Me
 
-- Email: tumitlatla@gmail.com(mailto:tumitlatla@gmail.com)
-- GitHub: github.com/TumzaTech(https://github.com/TumzaTech)
-Feel free to reach out for collaboration opportunities!
+- Email: [tumitlatla@gmail.com](mailto:tumitlatla@gmail.com)
+- GitHub: [github.com/TumzaTech](https://github.com/TumzaTech)
+  
+ Feel free to reach out for collaboration opportunities!
