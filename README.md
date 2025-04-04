@@ -12,6 +12,6 @@ I'll be looking forward to hearing from you what you think of the website. Click
 
 ## 📬 Contact Me
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- Email: [your.email@example.com](mailto:tumitlatla@gmail.com)
+- GitHub: [github.com/yourusername](https://github.com/TumzaTech)
 Feel free to reach out for collaboration opportunities!
