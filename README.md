@@ -8,7 +8,7 @@ I'll be looking forward to hearing from you what you think of the website. Click
 ## 🚀 Technologies & Skills
 
 - **Languages**: I used HTML and CSS for my portfolio
-- **Tools**: Git
+- **Tools**: Git & VS Code
 
 ## 📬 Contact Me
 
